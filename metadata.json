@@ -1,0 +1,5 @@
+{
+  "name": "Chess Game",
+  "description": "A fully functional chess game with Player vs Player and Player vs AI modes.",
+  "requestFramePermissions": []
+}
