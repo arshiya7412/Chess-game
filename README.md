@@ -28,6 +28,10 @@ A fully functional, responsive chess application built with React, TypeScript, a
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Build Tool**: [Vite](https://vitejs.dev/)
 
+## Deployement Link
+
+ Open [https://gamif.netlify.app/](https://gamif.netlify.app/) to view it in the browser.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
